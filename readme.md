@@ -24,7 +24,7 @@
 * Sofish Lin [@sofish](http://twitter.com/sofish), [github](https://github.com/sofish)
 * Дејан Димић [@dejan_dimic](http://twitter.com/dejan_dimic), [github](https://github.com/rubystream)
 * Miloš Gavrilović [@gavrisimo](http://twitter.com/gavrisimo), [github](https://github.com/gavrisimo)
-
+* Cody Spriggs [@codyspriggs] (http://twitter.com/codyspriggs), [github](https://github.com/cspriggs220)
 
 
 ## All code in any code-base should look like a single person typed it, no matter how many people contributed.
